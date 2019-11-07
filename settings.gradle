@@ -1,0 +1,5 @@
+include ':adapter:applovin', ':adapter:chartboost', ':adapter:adcolony',
+        ':adapter:tapjoy', ':adapter:vungle',
+        ':adapter:unity', ':adapter:facebook', ':adapter:mopub',
+        ':adtiming-mediation', ':adapter:admob', ':adtiming-demo'
+        rootProject.name = 'AdTiming Android SDK'
